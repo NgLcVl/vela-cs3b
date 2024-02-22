@@ -2,6 +2,8 @@
 
 by: Angelica P. Vela
 
+[My Published App](https://probable-funicular-xg6xp9x9vrx2vxxg-8502.app.github.dev/)
+
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
 Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
